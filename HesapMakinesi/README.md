@@ -1,0 +1,1 @@
+Kullanıcıdan alınan iki değerin toplama,çıkarma,çarpma veya bölme işlemini switch-case yapısı ile  gerçekleştiren program.

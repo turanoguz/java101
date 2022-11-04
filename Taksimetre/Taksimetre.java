@@ -1,3 +1,4 @@
+package Taksimetre;
 import java.util.Scanner;
 
 public class Taksimetre {

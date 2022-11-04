@@ -1,3 +1,4 @@
+package NotOrtalaması;
 import java.util.Scanner;
 
 class Main{
