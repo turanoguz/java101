@@ -1,3 +1,4 @@
+package VücutKitleİndeksi;
 import java.util.Scanner;
 
 public class VucutKitleEndeksi {

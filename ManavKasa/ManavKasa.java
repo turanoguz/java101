@@ -1,3 +1,4 @@
+package ManavKasa;
 import java.util.Scanner;
 
 public class ManavKasa {
