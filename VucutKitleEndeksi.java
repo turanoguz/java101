@@ -20,6 +20,8 @@ public class VucutKitleEndeksi {
 
         System.out.println("Vücut Kitle İndeksiniz : "+vucutKitleEndeksi);
 
+        scan.close();
+
 
     }
 }

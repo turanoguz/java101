@@ -17,6 +17,8 @@ public class DaireAlanCevreHesaplama {
        alan = ((pi*(r*r)*delta)/360);
        
        System.out.println("Dairenin alanı : "+ alan);
+
+       scan.close();
        
 
 

@@ -34,6 +34,8 @@ class Main{
         System.out.println("Ortalamnız : "+ortalama);
         System.out.println(ortalama >=60 ? "Sınıfı Geçti" : "Sınıfta Kaldı");
 
+        scan.close();
+
 
         
     }

@@ -15,6 +15,8 @@ public class Taksimetre {
         toplamTutar  = (toplamTutar<minTutar) ? 20 : toplamTutar ;
         System.out.println("Ödenecek toplam tutar : "+toplamTutar);
 
+        scan.close();
+
 
 
 
