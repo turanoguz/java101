@@ -16,7 +16,7 @@ public class KullaniciGirisi {
         inputPassword = scanner.nextLine();
 
 
-        if(inputUserName.equals(userName) && password.equals(password)){
+        if(inputUserName.equals(userName) && inputPassword.equals(password)){
 
             System.out.println("Giriş yaptınız.");
         }else{

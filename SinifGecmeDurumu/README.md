@@ -1,0 +1,1 @@
+kullanıcın girdiği notların ortalamasını bularak sınıfta kalıp kalmadığını kontrol eden program.
