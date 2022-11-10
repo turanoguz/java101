@@ -2,7 +2,7 @@ package KullanıcıGirisi;
 
 import java.util.Scanner;
 
-public class KullanıcıGirisi {
+public class KullaniciGirisi {
     public static void main(String[] args) {
         
         String userName = "patika", password = "12345", answer, inputUserName, inputPassword, newPassword;
