@@ -1,0 +1,1 @@
+girilen hava sıcaklığına göre etkinlik öneren program.
