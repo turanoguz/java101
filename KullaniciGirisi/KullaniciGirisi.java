@@ -1,4 +1,4 @@
-package KullanıcıGirisi;
+package KullaniciGirisi;
 
 import java.util.Scanner;
 
