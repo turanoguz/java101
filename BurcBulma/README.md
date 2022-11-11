@@ -1,0 +1,1 @@
+kullanıcının gireceği ay ve güne göre kullanıcının burcunu bulan program.
