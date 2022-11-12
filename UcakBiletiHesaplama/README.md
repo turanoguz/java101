@@ -1,0 +1,1 @@
+Kullanıcıdan alınan mesafe, yaş ve gidiş-dönüş bilgilerine göre bilet fiyatı hesaplıyan program. 
