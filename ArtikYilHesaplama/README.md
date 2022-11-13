@@ -1,0 +1,1 @@
+kullanıcının girdiği yılın artık yıl olup olmadığını kontrol eden program.
