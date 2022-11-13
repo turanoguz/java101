@@ -1,0 +1,1 @@
+kullanıcıdan alınan doğum yılı bilgisine göre çin zodyağı hesaplayan program.
